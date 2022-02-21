@@ -1,9 +1,9 @@
 {
     "type": "postgres",
     "host": "localhost",
-    "port": 5434,
+    "port": 5432,
     "username": "postgres",
-    "password": "postgres",
+    "password": "bookexampledbpassword",
     "database": "nestwafprimer",
     "entities": [
     "dist/**/*.entity{.ts,.js}"
